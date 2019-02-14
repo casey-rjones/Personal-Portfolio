@@ -4,4 +4,6 @@ title: "Hank Quinlan, Horrible Cop, Launches Site"
 date: 2014-04-30
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This is my first official blog post!  
+
+Welcome to my little corner of the internet. My intentions going forward are to blog on any of the programming interest I have such as Python, C, and Haskell. I would love to create some tutorials to give back to the community!
